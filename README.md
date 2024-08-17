@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mahdi Rezaei</h1>
 <h3 align="center">A passionate full-stack developer from wherever there are cool ideas</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rezaeieng1994&label=Profile%20views&color=0e75b6&style=flat" alt="rezaeieng1994" /> </p>
+<p align="left" style="display:none;"> <img src="https://komarev.com/ghpvc/?username=rezaeieng1994&label=Profile%20views&color=0e75b6&style=flat" alt="rezaeieng1994" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rezaeieng1994" alt="rezaeieng1994" /></a> </p>
 
