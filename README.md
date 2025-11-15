@@ -7,8 +7,6 @@
 
 <p align="left"> <a href="https://twitter.com/rezaei2dev" target="blank"><img src="https://img.shields.io/twitter/follow/rezaei2dev?logo=twitter&style=for-the-badge" alt="rezaei2dev" /></a> </p>
 
-- 🔭 I’m currently working on [iWand Style](https://iwand.style/)
-
 - 🌱 I’m currently learning **Microservice architecture**
 
 - 👯 I’m looking to collaborate on **projects that need help**
@@ -39,3 +37,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rezaeieng1994&show_icons=true&locale=en" alt="rezaeieng1994" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rezaeieng1994&" alt="rezaeieng1994" /></p>
+
